@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Bing Image Creator](http://www.bing.com/images/create)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +40,25 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título genial e profundo para um livro onde são tratados temas ligados a qualidade de vida, meditação, técnicas de respiração, psicoterapia, exercício, momentos de alegria com a família, contato com a natureza, pensamento positivo. Traga mais 5 opções de títulos                                                        |
+| conteúdo | Faça um texto para ebook , com foco em qualidade de vida, listando os principais aspectos da vida humana que realmente importam e merecem atenção com exemplos de atitudes e cuidados que devemos tomar para melhorar a saúde mental e corporal, para uma vida melhor 
+{REGRAS} 
+- Explique sempre de uma maneira simples e motivadora;
+- Deixe o texto enxuto;
+- Traga exemplos baseados em depoimentos de pessoas reais que deixaram conselhos para os mais jovens, do que fariam se tivessem novamente a oportunidade de refazer seu passado, num viés positivo 
+- Sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Bing Image Creator：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | criar a imagem de uma mulher feliz e saudável, com os braços levantados pra cima, olhando para mar, ao nascer do sol, com os raios do sol refletindo na sua silhueta corporal |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Bing Image Creator
 
 ## 📚 Materiais
 
