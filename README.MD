@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+   
  <img width="100" src=".github/assets/EBOOK CIRCULOS DE SERENIDADE.png">
 </p>
 
@@ -13,7 +13,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/EBOOK CIRCULOS DE SERENIDADE.png"
     width="400"  
 />
 </p>
